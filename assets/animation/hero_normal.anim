@@ -1,0 +1,31 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "hero_normal",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.15,
+  "sample": 20,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0.05,
+            "value": {
+              "__uuid__": "514f4f83-0118-460b-a763-ac8eafa8c8e9"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "084cca67-97fc-46c3-8bd8-6bf717adf2bc"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}
